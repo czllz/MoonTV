@@ -85,8 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "155": {
-      "api": "https://155api.com/api.php/provide/vod/?ac=list",
-      "name": "155"
+    "dayaoguai": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "大妖怪"
+      }
   }
 }
